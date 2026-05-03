@@ -1,6 +1,6 @@
 <img width="1919" height="1079" alt="0c1c4eb7-f301-4bb2-b1f2-69cdfadef8fd" src="https://github.com/user-attachments/assets/dd11c99d-1839-4e2e-8e79-f2a25de46193" />
 <div class="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Choi_Yunho's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Choi_Yunho's GitHub">
+  
 </div>
 
 <div align="center">
