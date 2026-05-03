@@ -3,6 +3,18 @@
 </div>
 
 <div align="center">
+  <h2>👋 About Me 👋</h2>
+
+  <p>
+    Hi, I'm Choi Yunho.<br>
+    I'm a Computer Science student at Gyeongsang National University.<br>
+    Born in 2007 and based in Korea.
+  </p>
+</div>
+
+<br>
+
+<div align="center">
   <h2>🧑‍💻 Contact Me 🧑‍💻</h2>
 
   <a href="https://www.instagram.com/ys.ho">
