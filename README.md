@@ -36,5 +36,7 @@
 <div align="center">
   <h2>🎮 My Projects 🎮</h2>
 
-  <img src="https://github.com/user-attachments/assets/dd11c99d-1839-4e2e-8e79-f2a25de46193" alt="Fruit Game Project" width="600">
+  <img src="https://github.com/user-attachments/assets/dd11c99d-1839-4e2e-8e79-f2a25de46193" alt="Fruit Game Project 1" width="600">
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/5a44dade-faa3-49a9-8ab2-39a413cbf444" alt="Fruit Game Project 2" width="600">
 </div>
